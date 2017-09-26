@@ -10,6 +10,7 @@ import java.util.Date;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
+    //Declaraciones
     TextView texto;
     Button boton;
 
